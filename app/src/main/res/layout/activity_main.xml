@@ -32,7 +32,7 @@
         android:layout_height="40dp"
 
         android:ellipsize="none"
-        android:text="We will help you to grow your business using                                                                               online server"
+        android:text="We will help you to grow your business using     \n                                online server"
         android:textColor="#040404"
         android:textIsSelectable="false"
         android:textSize="14sp"
